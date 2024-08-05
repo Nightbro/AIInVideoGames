@@ -22,7 +22,14 @@ if __name__ == "__main__":
 
     agent.model = agent.build_model()
 
-    model = agent.model
+    # Check if a model file exists
+    model_path = 'dqn_model.keras'
+    if os.path.exists(model_path):
+        print(f"Loading existing model from {model_path}")
+        agent.model = tf.keras.models.load_model(model_path)
+    else:
+        print("No existing model found, starting from scratch.")
+        agent.model = agent.build_model()
 
     try:
         for episode in range(1000):
