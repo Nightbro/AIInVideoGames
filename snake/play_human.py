@@ -1,24 +1,27 @@
 import pygame
+import sys
 from snake_game import SnakeGame
 
 def play_game():
-    game = SnakeGame()
-    game_over = False
+    pygame.init()
+    game = SnakeGame(render=True)  #  rendering is enabled
 
-    while not game_over:
+    while True:
         for event in pygame.event.get():
             if event.type == pygame.QUIT:
-                game_over = True
-
+                game.close()
+                pygame.quit()
+                sys.exit()
+        
         keys = pygame.key.get_pressed()
         action = game.human_input(keys)
-        if action != -1:
-            _, _, game_over = game.step(action)
+        state, reward, game_over = game.step(action)
         
-        game.render()
-        game.clock.tick(10)  # Set the game speed to 10 frames per second
+        if game_over:
+            game.reset()
 
-    game.close()
+        game.render()  
+        game.clock.tick(10) 
 
 if __name__ == "__main__":
     play_game()

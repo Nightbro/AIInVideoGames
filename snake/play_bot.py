@@ -7,7 +7,7 @@ from snake_game import SnakeGame
 from agent import DQNAgent
 
 def play_with_bot(model_path='dqn_model.keras'):
-    game = SnakeGame()
+    game = SnakeGame(render=True)
     agent = DQNAgent()
     
     # Error with loading the model
