@@ -35,16 +35,28 @@ class SnakeGame:
                 return food
 
     def step(self, action=None):
-        if action is not None:  # maintain direction if no action
-            if action == 0 and self.direction != (1, 0):  # action K_UP
+        if action is not None:
+            if action == 0 and self.direction == (1, 0):  # Pressed UP but moving DOWN
+                self.game_over = True
+                return self.get_state(), REWARD_DIE, True
+            elif action == 1 and self.direction == (-1, 0):  # Pressed DOWN but moving UP
+                self.game_over = True
+                return self.get_state(), REWARD_DIE, True
+            elif action == 2 and self.direction == (0, 1):  # Pressed LEFT but moving RIGHT
+                self.game_over = True
+                return self.get_state(), REWARD_DIE, True
+            elif action == 3 and self.direction == (0, -1):  # Pressed RIGHT but moving LEFT
+                self.game_over = True
+                return self.get_state(), REWARD_DIE, True
+            elif action == 0 and self.direction != (1, 0):  # UP
                 self.direction = (-1, 0)
-            elif action == 1 and self.direction != (-1, 0):  # action K_DOWN
+            elif action == 1 and self.direction != (-1, 0):  # DOWN
                 self.direction = (1, 0)
-            elif action == 2 and self.direction != (0, 1):  # action K_LEFT
+            elif action == 2 and self.direction != (0, 1):  # LEFT
                 self.direction = (0, -1)
-            elif action == 3 and self.direction != (0, -1):  # action K_RIGHT
+            elif action == 3 and self.direction != (0, -1):  # RIGHT
                 self.direction = (0, 1)
-        
+
         new_head = (self.snake[0][0] + self.direction[0], self.snake[0][1] + self.direction[1])
 
         if new_head[0] < 0 or new_head[0] >= NUM_CELLS or new_head[1] < 0 or new_head[1] >= NUM_CELLS or new_head in self.snake:
@@ -60,6 +72,7 @@ class SnakeGame:
             reward = REWARD_STAY_ALIVE
 
         return self.get_state(), reward, False
+
 
     def render(self):
         if not self.render_game:
@@ -88,13 +101,13 @@ class SnakeGame:
         ]
 
     def human_input(self, keys):
-        if keys[pygame.K_UP] and self.direction != (1, 0):
+        if keys[pygame.K_UP]:
             return 0
-        elif keys[pygame.K_DOWN] and self.direction != (-1, 0):
+        elif keys[pygame.K_DOWN]:
             return 1
-        elif keys[pygame.K_LEFT] and self.direction != (0, 1):
+        elif keys[pygame.K_LEFT]:
             return 2
-        elif keys[pygame.K_RIGHT] and self.direction != (0, -1):
+        elif keys[pygame.K_RIGHT]:
             return 3
         return None
 
