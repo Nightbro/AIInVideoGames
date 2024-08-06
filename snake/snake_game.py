@@ -2,6 +2,8 @@ import pygame
 import random
 from collections import deque
 import heapq
+import logging
+import datetime
 
 WINDOW_SIZE = 500
 CELL_SIZE = 20
@@ -12,13 +14,30 @@ REWARD_DIE = -1
 SNAKE_COLOR = (0, 255, 0)
 FOOD_COLOR = (255, 0, 0)
 
+
+
+
+def setup_logging():
+    logging.basicConfig(level=logging.INFO)
+    logger = logging.getLogger('snake_game')
+    
+    file_handler = logging.FileHandler('game_logs.txt')
+    formatter = logging.Formatter('%(asctime)s - %(message)s', datefmt='%d.%m.%Y %H:%M:%S')
+    
+    file_handler.setFormatter(formatter)
+    logger.addHandler(file_handler)
+    
+    return logger
+
+
 class SnakeGame:
     def __init__(self, render=False):
-        self.render_game = render  # Changed to render_game to avoid conflict
+        self.render_game = render
         if self.render_game:
             pygame.init()
             self.screen = pygame.display.set_mode((WINDOW_SIZE, WINDOW_SIZE))
         self.clock = pygame.time.Clock()
+        self.logger = setup_logging()
         self.reset()
 
     def reset(self):
@@ -34,19 +53,28 @@ class SnakeGame:
             if food not in self.snake:
                 return food
 
-    def step(self, action=None):
+    def step(self, action=None, player_type="bot", mechanism="", training=False):
+        reason = ""
         if action is not None:
             if action == 0 and self.direction == (1, 0):  # Pressed UP but moving DOWN
                 self.game_over = True
+                reason = "Pressed opposite direction"
+                self.log_game(player_type, mechanism, training, reason)
                 return self.get_state(), REWARD_DIE, True
             elif action == 1 and self.direction == (-1, 0):  # Pressed DOWN but moving UP
                 self.game_over = True
+                reason = "Pressed opposite direction"
+                self.log_game(player_type, mechanism, training, reason)
                 return self.get_state(), REWARD_DIE, True
             elif action == 2 and self.direction == (0, 1):  # Pressed LEFT but moving RIGHT
                 self.game_over = True
+                reason = "Pressed opposite direction"
+                self.log_game(player_type, mechanism, training, reason)
                 return self.get_state(), REWARD_DIE, True
             elif action == 3 and self.direction == (0, -1):  # Pressed RIGHT but moving LEFT
                 self.game_over = True
+                reason = "Pressed opposite direction"
+                self.log_game(player_type, mechanism, training, reason)
                 return self.get_state(), REWARD_DIE, True
             elif action == 0 and self.direction != (1, 0):  # UP
                 self.direction = (-1, 0)
@@ -56,11 +84,13 @@ class SnakeGame:
                 self.direction = (0, -1)
             elif action == 3 and self.direction != (0, -1):  # RIGHT
                 self.direction = (0, 1)
-
+        
         new_head = (self.snake[0][0] + self.direction[0], self.snake[0][1] + self.direction[1])
 
         if new_head[0] < 0 or new_head[0] >= NUM_CELLS or new_head[1] < 0 or new_head[1] >= NUM_CELLS or new_head in self.snake:
             self.game_over = True
+            reason = "Hit the wall or itself"
+            self.log_game(player_type, mechanism, training, reason)
             return self.get_state(), REWARD_DIE, True
 
         self.snake.insert(0, new_head)
@@ -73,6 +103,13 @@ class SnakeGame:
 
         return self.get_state(), reward, False
 
+    def log_game(self, player_type, mechanism, training, reason):
+        score = len(self.snake) - 1
+        log_type = "Train" if training else "Play"
+        if player_type == "human":
+            self.logger.info(f"{log_type} - Human player, Score: {score}, Reason for death: {reason}")
+        else:
+            self.logger.info(f"{log_type} - {mechanism} Bot player, Score: {score}, Reason for death: {reason}")
 
     def render(self):
         if not self.render_game:

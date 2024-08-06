@@ -8,6 +8,7 @@ import tensorflow as tf
 import signal
 import json
 import time
+import logging
 
 stop_flag = False
 
@@ -20,10 +21,24 @@ def save_results(results, filename='results.json'):
     with open(filename, 'w') as f:
         json.dump(results, f, indent=4)
 
+def setup_logging():
+    logging.basicConfig(level=logging.INFO)
+    logger = logging.getLogger('snake_game')
+
+    file_handler = logging.FileHandler('game_logs.txt')
+    formatter = logging.Formatter('%(asctime)s - %(message)s', datefmt='%d.%m.%Y %H:%M:%S')
+
+    file_handler.setFormatter(formatter)
+    logger.addHandler(file_handler)
+
+    return logger
+
 if __name__ == "__main__":
     signal.signal(signal.SIGINT, signal_handler)  # Handle Ctrl+C
 
-    game = SnakeGame(render=False)  # Disable rendering
+    logger = setup_logging()
+
+    game = SnakeGame(render=False)
     agent = DQNAgent()
 
     model_path = 'dqn_model.keras'
@@ -34,7 +49,7 @@ if __name__ == "__main__":
         print("No existing model found, starting from scratch.")
         agent.model = agent.build_model()
 
-    algorithms = ['bfs', 'dfs', 'a_star']
+    algorithms = ['dqn', 'bfs', 'dfs', 'a_star']
     results = {alg: {'episodes': 0, 'total_reward': 0, 'start_time': time.time(), 'history': []} for alg in algorithms}
 
     try:
@@ -53,23 +68,33 @@ if __name__ == "__main__":
 
                     if alg == 'bfs':
                         path = game.bfs()
+                        if path:
+                            next_node = path[0] if len(path) > 0 else None
+                            action = agent.get_action_from_path(game.snake[0], next_node)
+                        else:
+                            action = agent.act(state)
                     elif alg == 'dfs':
                         path = game.dfs()
+                        if path:
+                            next_node = path[0] if len(path) > 0 else None
+                            action = agent.get_action_from_path(game.snake[0], next_node)
+                        else:
+                            action = agent.act(state)
                     elif alg == 'a_star':
                         path = game.a_star()
-                    else:
-                        path = []
-
-                    if path:
-                        next_node = path[0] if len(path) > 0 else None
-                        action = agent.get_action_from_path(game.snake[0], next_node)
+                        if path:
+                            next_node = path[0] if len(path) > 0 else None
+                            action = agent.get_action_from_path(game.snake[0], next_node)
+                        else:
+                            action = agent.act(state)
                     else:
                         action = agent.act(state)
 
-                    next_state, reward, game_over = game.step(action)
+                    next_state, reward, game_over = game.step(action, player_type="bot", mechanism=alg, training=True)
                     total_reward += reward
                     next_state = np.reshape(next_state, [1, 1, 10])  # Update the state shape
-                    agent.train(state, action, reward, next_state, game.game_over)
+                    if alg == 'dqn':
+                        agent.train(state, action, reward, next_state, game.game_over)
                     state = next_state
 
                     steps += 1
@@ -77,6 +102,11 @@ if __name__ == "__main__":
                 results[alg]['episodes'] += 1
                 results[alg]['total_reward'] += total_reward
                 results[alg]['history'].append({'episode': episode, 'reward': total_reward, 'steps': steps})
+
+                # Log game details at the end of each episode
+                score = len(game.snake) - 1
+                log_type = "Train"
+                logger.info(f"{log_type} - {alg} Bot player, Score: {score}, Total reward: {total_reward}, Steps: {steps}")
 
                 print(f'Episode: {episode}, Algorithm: {alg}, Total reward: {total_reward}, Steps: {steps}')
 
