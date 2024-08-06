@@ -161,3 +161,18 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 .vscode/extensions.json
+snake/dqn_model_dqn_episode_1.keras
+snake/dqn_model_dqn_episode_0.keras
+snake/dqn_model_dfs_episode_1.keras
+snake/dqn_model_dfs_episode_0.keras
+snake/dqn_model_bfs_episode_1.keras
+snake/dqn_model_bfs_episode_0.keras
+snake/dqn_model_a_star_episode_1.keras
+snake/dqn_model_a_star_episode_0.keras
+snake/dqn_model.keras
+snake/6InputModels/dqn_model_dfs_episode_0.keras
+snake/6InputModels/dqn_model_bfs_episode_0.keras
+snake/6InputModels/dqn_model_a_star_episode_0.keras
+snake/6InputModels/dqn_model.keras
+snake/6InputModels/dqn_model.h5
+snake/results.json
