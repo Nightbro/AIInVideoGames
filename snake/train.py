@@ -29,8 +29,10 @@ if __name__ == "__main__":
         agent.model = tf.keras.models.load_model(model_path)
     else:
         print("No existing model found, starting from scratch.")
-        agent.model = agent.build_model()
+        agent.model = agent.build_model()  
 
+    render_interval = 50
+             
     try:
         for episode in range(1000):
             if stop_flag:
@@ -38,6 +40,7 @@ if __name__ == "__main__":
 
             state = np.reshape(game.reset(), [1, 1, 6])
             total_reward = 0
+            step_count = 0
             while not game.game_over:
                 if stop_flag:
                     break
@@ -48,7 +51,9 @@ if __name__ == "__main__":
                 next_state = np.reshape(next_state, [1, 1, 6])
                 agent.train(state, action, reward, next_state, game.game_over)
                 state = next_state
-                game.render()
+                step_count += 1
+                if step_count % render_interval == 0:
+                    game.render()
 
             print(f'Episode: {episode}, Total reward: {total_reward}')
 
@@ -56,5 +61,7 @@ if __name__ == "__main__":
         print(f"An error occurred: {e}")
 
     finally:
-        model.save(model_path)
+        agent.model.save(model_path)
         print("Model saved.")
+      
+
