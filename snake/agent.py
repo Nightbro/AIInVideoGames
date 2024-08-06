@@ -13,7 +13,7 @@ class DQNAgent:
 
     def build_model(self):
         model = Sequential([
-            tf.keras.Input(shape=(1, 6)),  # First layer - user input
+            tf.keras.Input(shape=(1, 10)),  # First layer - user input with 10 features
             Flatten(),
             Dense(24, activation='relu'),
             Dense(24, activation='relu'),

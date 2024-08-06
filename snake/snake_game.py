@@ -78,16 +78,23 @@ class SnakeGame:
         head_x, head_y = self.snake[0]
         food_x, food_y = self.food
         direction_x, direction_y = self.direction
-        return [head_x, head_y, food_x, food_y, direction_x, direction_y]
+        distance_to_wall_top = head_y
+        distance_to_wall_bottom = NUM_CELLS - head_y - 1
+        distance_to_wall_left = head_x
+        distance_to_wall_right = NUM_CELLS - head_x - 1
+        return [
+            head_x, head_y, food_x, food_y, direction_x, direction_y,
+            distance_to_wall_top, distance_to_wall_bottom, distance_to_wall_left, distance_to_wall_right
+        ]
 
     def human_input(self, keys):
-        if keys[pygame.K_UP]:
+        if keys[pygame.K_UP] and self.direction != (1, 0):
             return 0
-        elif keys[pygame.K_DOWN]:
+        elif keys[pygame.K_DOWN] and self.direction != (-1, 0):
             return 1
-        elif keys[pygame.K_LEFT]:
+        elif keys[pygame.K_LEFT] and self.direction != (0, 1):
             return 2
-        elif keys[pygame.K_RIGHT]:
+        elif keys[pygame.K_RIGHT] and self.direction != (0, -1):
             return 3
         return None
 

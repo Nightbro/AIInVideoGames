@@ -43,7 +43,7 @@ if __name__ == "__main__":
                 break
 
             for alg in algorithms:
-                state = np.reshape(game.reset(), [1, 1, 6])
+                state = np.reshape(game.reset(), [1, 1, 10])  # Update the state shape
                 total_reward = 0
                 steps = 0
 
@@ -68,7 +68,7 @@ if __name__ == "__main__":
 
                     next_state, reward, game_over = game.step(action)
                     total_reward += reward
-                    next_state = np.reshape(next_state, [1, 1, 6])
+                    next_state = np.reshape(next_state, [1, 1, 10])  # Update the state shape
                     agent.train(state, action, reward, next_state, game.game_over)
                     state = next_state
 
@@ -81,7 +81,7 @@ if __name__ == "__main__":
                 print(f'Episode: {episode}, Algorithm: {alg}, Total reward: {total_reward}, Steps: {steps}')
 
                 # Save checkpoints
-                if episode == 1 or episode == 10 or episode % 100 == 0:
+                if episode == 1 or episode == 10 or episode == 100 or episode % 1000 == 0:
                     checkpoint_path = f'dqn_model_{alg}_episode_{episode}.keras'
                     agent.model.save(checkpoint_path)
                     print(f"Checkpoint saved at {checkpoint_path}")
