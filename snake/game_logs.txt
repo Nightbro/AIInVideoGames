@@ -1,0 +1,58 @@
+06.08.2024 21:11:17 - Play - Human player, Score: 7, Reason for death: Pressed opposite direction
+06.08.2024 21:11:18 - Play - Human player, Score: 0, Reason for death: Hit the wall or itself
+06.08.2024 21:11:19 - Play - Human player, Score: 0, Reason for death: Hit the wall or itself
+06.08.2024 21:11:21 - Play - Human player, Score: 0, Reason for death: Hit the wall or itself
+06.08.2024 21:13:38 - Play - Regular Bot player, Score: 0, Reason for death: Hit the wall or itself
+06.08.2024 21:14:15 - Play - Regular Bot player, Score: 0, Reason for death: Hit the wall or itself
+06.08.2024 21:17:10 - Play - Regular Bot player, Score: 0, Reason for death: Hit the wall or itself
+06.08.2024 21:20:10 - Train - bfs Bot player, Score: 0, Reason for death: Pressed opposite direction
+06.08.2024 21:20:10 - Train - bfs Bot player, Score: 0, Reason for death: Training completed
+06.08.2024 21:20:10 - Train - dfs Bot player, Score: 0, Reason for death: Pressed opposite direction
+06.08.2024 21:20:10 - Train - dfs Bot player, Score: 0, Reason for death: Training completed
+06.08.2024 21:23:51 - Train - a_star Bot player, Score: 4, Reason for death: Training completed
+06.08.2024 21:27:10 - Train - dqn Bot player, Score: 0, Reason for death: Hit the wall or itself
+06.08.2024 21:27:10 - Train - dqn Bot player, Score: 0, Reason for death: Hit the wall or itself
+06.08.2024 21:27:10 - Train - dqn Bot player, Score: 0, Total reward: -1, Steps: 23
+06.08.2024 21:27:10 - Train - dqn Bot player, Score: 0, Total reward: -1, Steps: 23
+06.08.2024 21:27:10 - Train - bfs Bot player, Score: 35, Reason for death: Hit the wall or itself
+06.08.2024 21:27:10 - Train - bfs Bot player, Score: 35, Reason for death: Hit the wall or itself
+06.08.2024 21:27:10 - Train - bfs Bot player, Score: 35, Total reward: 34, Steps: 580
+06.08.2024 21:27:10 - Train - bfs Bot player, Score: 35, Total reward: 34, Steps: 580
+06.08.2024 21:27:10 - Train - dfs Bot player, Score: 0, Reason for death: Pressed opposite direction
+06.08.2024 21:27:10 - Train - dfs Bot player, Score: 0, Reason for death: Pressed opposite direction
+06.08.2024 21:27:10 - Train - dfs Bot player, Score: 0, Total reward: -1, Steps: 13
+06.08.2024 21:27:10 - Train - dfs Bot player, Score: 0, Total reward: -1, Steps: 13
+06.08.2024 21:27:10 - Train - a_star Bot player, Score: 100, Reason for death: Pressed opposite direction
+06.08.2024 21:27:10 - Train - a_star Bot player, Score: 100, Reason for death: Pressed opposite direction
+06.08.2024 21:27:10 - Train - a_star Bot player, Score: 100, Total reward: 99, Steps: 2035
+06.08.2024 21:27:10 - Train - a_star Bot player, Score: 100, Total reward: 99, Steps: 2035
+06.08.2024 21:27:23 - Train - dqn Bot player, Score: 0, Reason for death: Hit the wall or itself
+06.08.2024 21:27:23 - Train - dqn Bot player, Score: 0, Reason for death: Hit the wall or itself
+06.08.2024 21:27:27 - Train - dqn Bot player, Score: 0, Total reward: -1, Steps: 14
+06.08.2024 21:27:27 - Train - dqn Bot player, Score: 0, Total reward: -1, Steps: 14
+06.08.2024 21:27:27 - Train - bfs Bot player, Score: 64, Reason for death: Pressed opposite direction
+06.08.2024 21:27:27 - Train - bfs Bot player, Score: 64, Reason for death: Pressed opposite direction
+06.08.2024 21:27:27 - Train - bfs Bot player, Score: 64, Total reward: 63, Steps: 1004
+06.08.2024 21:27:27 - Train - bfs Bot player, Score: 64, Total reward: 63, Steps: 1004
+06.08.2024 22:20:51 - Train - dfs Bot player, Score: 1, Total reward: 1, Steps: 8088781
+06.08.2024 22:20:51 - Train - dfs Bot player, Score: 1, Total reward: 1, Steps: 8088781
+06.08.2024 22:20:51 - Train - a_star Bot player, Score: 0, Total reward: 0, Steps: 0
+06.08.2024 22:20:51 - Train - a_star Bot player, Score: 0, Total reward: 0, Steps: 0
+06.08.2024 22:22:13 - Play - Regular Bot player, Score: 0, Reason for death: Hit the wall or itself
+06.08.2024 22:22:39 - Play - Regular Bot player, Score: 0, Reason for death: Hit the wall or itself
+06.08.2024 22:22:54 - Play - Regular Bot player, Score: 0, Reason for death: Hit the wall or itself
+06.08.2024 22:23:13 - Play - Regular Bot player, Score: 0, Reason for death: Hit the wall or itself
+17.08.2024 16:25:35 - Play - Human player, Score: 0, Reason for death: Pressed opposite direction
+17.08.2024 16:25:37 - Play - Human player, Score: 0, Reason for death: Pressed opposite direction
+17.08.2024 16:34:44 - Play - DFS Bot player, Score: 0, Reason for death: Pressed opposite direction
+17.08.2024 16:34:45 - Play - DFS Bot player, Score: 0, Reason for death: Pressed opposite direction
+17.08.2024 16:34:47 - Play - DFS Bot player, Score: 0, Reason for death: Pressed opposite direction
+17.08.2024 16:34:48 - Play - DFS Bot player, Score: 0, Reason for death: Pressed opposite direction
+17.08.2024 16:34:49 - Play - DFS Bot player, Score: 0, Reason for death: Pressed opposite direction
+17.08.2024 16:34:50 - Play - DFS Bot player, Score: 0, Reason for death: Pressed opposite direction
+17.08.2024 16:34:52 - Play - DFS Bot player, Score: 0, Reason for death: Pressed opposite direction
+17.08.2024 16:34:53 - Play - DFS Bot player, Score: 0, Reason for death: Pressed opposite direction
+17.08.2024 16:34:54 - Play - DFS Bot player, Score: 0, Reason for death: Pressed opposite direction
+17.08.2024 16:34:56 - Play - DFS Bot player, Score: 0, Reason for death: Pressed opposite direction
+17.08.2024 16:34:57 - Play - DFS Bot player, Score: 0, Reason for death: Pressed opposite direction
+17.08.2024 16:34:58 - Play - DFS Bot player, Score: 0, Reason for death: Pressed opposite direction
