@@ -2,7 +2,7 @@ import pygame
 import sys
 from snake_game import SnakeGame
 
-def play_astar_bot():
+def play_astar_bot(num_simulations=500):
     pygame.init()
     game = SnakeGame(render=True)
 
@@ -33,9 +33,17 @@ def play_astar_bot():
 
             if game_over:
                 game.reset()
+                num_simulations -= 1
+
+        else:
+            game.kill_snake("No path found", player_type="bot", mechanism="A*", training=False)
+            num_simulations -= 1
+
+        if num_simulations<0:
+            break
 
         game.render()
         game.clock.tick(10)
 
 if __name__ == "__main__":
-    play_astar_bot()
+    play_astar_bot(num_simulations=500)

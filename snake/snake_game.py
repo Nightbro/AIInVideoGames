@@ -45,6 +45,8 @@ class SnakeGame:
         self.direction = (0, 1)
         self.food = self.place_food()
         self.game_over = False
+        self.moves = 0  # Initialize move counter
+        self.turns = 0  # Initialize turn counter
         return self.get_state()
 
     def place_food(self):
@@ -56,27 +58,12 @@ class SnakeGame:
     def step(self, action=None, player_type="bot", mechanism="", training=False):
         reason = ""
         if action is not None:
-            if action == 0 and self.direction == (1, 0):  # Pressed UP but moving DOWN
-                self.game_over = True
-                reason = "Pressed opposite direction"
-                self.log_game(player_type, mechanism, training, reason)
-                return self.get_state(), REWARD_DIE, True
-            elif action == 1 and self.direction == (-1, 0):  # Pressed DOWN but moving UP
-                self.game_over = True
-                reason = "Pressed opposite direction"
-                self.log_game(player_type, mechanism, training, reason)
-                return self.get_state(), REWARD_DIE, True
-            elif action == 2 and self.direction == (0, 1):  # Pressed LEFT but moving RIGHT
-                self.game_over = True
-                reason = "Pressed opposite direction"
-                self.log_game(player_type, mechanism, training, reason)
-                return self.get_state(), REWARD_DIE, True
-            elif action == 3 and self.direction == (0, -1):  # Pressed RIGHT but moving LEFT
-                self.game_over = True
-                reason = "Pressed opposite direction"
-                self.log_game(player_type, mechanism, training, reason)
-                return self.get_state(), REWARD_DIE, True
-            elif action == 0 and self.direction != (1, 0):  # UP
+            # Detect if there is a turn (direction change)
+            if (action == 0 and self.direction != (-1, 0)) or (action == 1 and self.direction != (1, 0)) or \
+               (action == 2 and self.direction != (0, -1)) or (action == 3 and self.direction != (0, 1)):
+                self.turns += 1  # Increment turn counter
+            
+            if action == 0 and self.direction != (1, 0):  # UP
                 self.direction = (-1, 0)
             elif action == 1 and self.direction != (-1, 0):  # DOWN
                 self.direction = (1, 0)
@@ -87,9 +74,17 @@ class SnakeGame:
         
         new_head = (self.snake[0][0] + self.direction[0], self.snake[0][1] + self.direction[1])
 
-        if new_head[0] < 0 or new_head[0] >= NUM_CELLS or new_head[1] < 0 or new_head[1] >= NUM_CELLS or new_head in self.snake:
+        # Check for wall collision
+        if new_head[0] < 0 or new_head[0] >= NUM_CELLS or new_head[1] < 0 or new_head[1] >= NUM_CELLS:
             self.game_over = True
-            reason = "Hit the wall or itself"
+            reason = "Hit the wall"
+            self.log_game(player_type, mechanism, training, reason)
+            return self.get_state(), REWARD_DIE, True
+
+        # Check for self-collision
+        if new_head in self.snake:
+            self.game_over = True
+            reason = "Hit itself"
             self.log_game(player_type, mechanism, training, reason)
             return self.get_state(), REWARD_DIE, True
 
@@ -101,15 +96,21 @@ class SnakeGame:
             self.snake.pop()
             reward = REWARD_STAY_ALIVE
 
+        self.moves += 1  # Increment move counter
         return self.get_state(), reward, False
-
+    
     def log_game(self, player_type, mechanism, training, reason):
         score = len(self.snake) - 1
         log_type = "Train" if training else "Play"
+        snake_length = len(self.snake)
+        moves = self.moves
+        turns = self.turns
+
         if player_type == "human":
-            self.logger.info(f"{log_type} - Human player, Score: {score}, Reason for death: {reason}")
+            self.logger.info(f"{log_type} - Human player, Score: {score}, Reason for death: {reason}, Moves: {moves}, Snake Length: {snake_length}, Turns: {turns}")
         else:
-            self.logger.info(f"{log_type} - {mechanism} Bot player, Score: {score}, Reason for death: {reason}")
+            self.logger.info(f"{log_type} - {mechanism} Bot player, Score: {score}, Reason for death: {reason}, Moves: {moves}, Snake Length: {snake_length}, Turns: {turns}")
+
 
     def render(self):
         if not self.render_game:
@@ -160,6 +161,11 @@ class SnakeGame:
         if y < NUM_CELLS - 1:
             neighbors.append((x, y + 1))
         return neighbors
+    
+    def kill_snake(self, reason, player_type="bot", mechanism="", training=False):
+        self.game_over = True
+        self.log_game(player_type, mechanism, training, reason)
+        self.reset()
 
     def bfs(self):
         start = self.snake[0]
@@ -214,6 +220,7 @@ class SnakeGame:
                 return path
 
             for neighbor in self.get_neighbors(current):
+                # Skip neighbors that have already been visited or are part of the snake
                 if neighbor in visited or neighbor in self.snake:
                     continue
 
@@ -225,4 +232,7 @@ class SnakeGame:
 
             visited.add(current)
 
+        # No path found; return an empty list or trigger a fallback
+        print("a star timeout! Resetting game...")
         return []
+
