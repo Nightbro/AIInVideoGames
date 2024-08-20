@@ -35,6 +35,8 @@ class Player:
     def __init__(self):
         self.x = 100
         self.y = 300
+        self.sizeX= 50
+        self.sizeY= 35
         self.velocity = 0
         self.gravity = 0.8
         self.lift = -20
@@ -47,6 +49,13 @@ class Player:
         self.velocity *= 0.9  # Air resistance
         self.y += self.velocity
 
+        #if self.y >= SCREEN_HEIGHT - GROUND_IMAGE.get_height():
+        #    self.y = SCREEN_HEIGHT - GROUND_IMAGE.get_height()
+        if self.y >= SCREEN_HEIGHT - 20:
+            self.y = SCREEN_HEIGHT - 20 
+            self.velocity = 0
+            self.alive = False  # Bird is dead if it hits the ground
+
         # Prevent the bird from falling out of the screen
         if self.y > SCREEN_HEIGHT - self.radius:
             self.y = SCREEN_HEIGHT - self.radius
@@ -55,15 +64,25 @@ class Player:
         elif self.y < 0:
             self.y = 0
             self.velocity = 0
-            self.alive = False
+            self.alive = False 
 
 
     def jump(self):
         self.velocity += self.lift
 
     def draw(self, screen):
-        pygame.draw.circle(screen, (255, 255, 0), (self.x, int(self.y)), self.radius)
+        #pygame.draw.circle(screen, (255, 255, 0), (self.x, int(self.y)), self.radius)
         #screen.blit(self.image, (self.x, self.y))
+        
+        rotated_image = pygame.transform.rotate(BIRD_IMAGE, 0)
+        if self.velocity < 0:
+            rotation = max(-25, self.velocity * 3)
+            rotated_image = pygame.transform.rotate(BIRD_IMAGE_FLY, 0)
+        else:
+            rotation = min(90, self.velocity * 3)
+            rotated_image = pygame.transform.rotate(BIRD_IMAGE, -rotation)
+        
+        screen.blit(rotated_image, (self.x, self.y))
 
 
 
@@ -93,8 +112,7 @@ class Pipe:
 
 class PipePair:
     def __init__(self):
-        self.pipes = []
-        self.add_new_pipe()
+        self.pipes = [Pipe(SCREEN_WIDTH)]
 
     def add_new_pipe(self):
         self.pipes.append(Pipe(SCREEN_WIDTH))
@@ -102,12 +120,12 @@ class PipePair:
     def update(self):
         for pipe in self.pipes:
             pipe.update()
-
-        if self.pipes and self.pipes[0].offscreen():
+        
+        if self.pipes[0].offscreen():
             self.pipes.pop(0)
-
-        if self.pipes and self.pipes[-1].x < SCREEN_WIDTH / 2:
-            self.add_new_pipe()
+        
+        if self.pipes[-1].x < SCREEN_WIDTH / 2:
+            self.pipes.append(Pipe(SCREEN_WIDTH))        
 
     def draw(self, screen):
         for pipe in self.pipes:
@@ -115,9 +133,14 @@ class PipePair:
 
     def check_collision(self, player):
         for pipe in self.pipes:
-            if player.x + player.radius > pipe.x and player.x - player.radius < pipe.x + pipe.width:
-                if player.y - player.radius < pipe.top or player.y + player.radius > pipe.bottom:
-                    player.alive = False
+            if player.x + player.sizeX > pipe.x and player.x < pipe.x + pipe.width:
+                if player.y < pipe.top or player.y + player.sizeY > pipe.bottom:
+                    player.alive = False  # Bird hits the pipe
+
+        # Check ground collision
+        if player.y >= SCREEN_HEIGHT - 20:
+        #if player.y >= SCREEN_HEIGHT - GROUND_IMAGE.get_height():
+            player.alive = False
 
 
 class Ground:
