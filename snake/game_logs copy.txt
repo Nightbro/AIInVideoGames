@@ -1,0 +1,265 @@
+06.08.2024 21:11:17 - Play - Human player, Score: 7, Reason for death: Pressed opposite direction
+06.08.2024 21:11:18 - Play - Human player, Score: 0, Reason for death: Hit the wall or itself
+06.08.2024 21:11:19 - Play - Human player, Score: 0, Reason for death: Hit the wall or itself
+06.08.2024 21:11:21 - Play - Human player, Score: 0, Reason for death: Hit the wall or itself
+06.08.2024 21:13:38 - Play - Regular Bot player, Score: 0, Reason for death: Hit the wall or itself
+06.08.2024 21:14:15 - Play - Regular Bot player, Score: 0, Reason for death: Hit the wall or itself
+06.08.2024 21:17:10 - Play - Regular Bot player, Score: 0, Reason for death: Hit the wall or itself
+06.08.2024 21:20:10 - Train - bfs Bot player, Score: 0, Reason for death: Pressed opposite direction
+06.08.2024 21:20:10 - Train - bfs Bot player, Score: 0, Reason for death: Training completed
+06.08.2024 21:20:10 - Train - dfs Bot player, Score: 0, Reason for death: Pressed opposite direction
+06.08.2024 21:20:10 - Train - dfs Bot player, Score: 0, Reason for death: Training completed
+06.08.2024 21:23:51 - Train - a_star Bot player, Score: 4, Reason for death: Training completed
+06.08.2024 21:27:10 - Train - dqn Bot player, Score: 0, Reason for death: Hit the wall or itself
+06.08.2024 21:27:10 - Train - dqn Bot player, Score: 0, Reason for death: Hit the wall or itself
+06.08.2024 21:27:10 - Train - dqn Bot player, Score: 0, Total reward: -1, Steps: 23
+06.08.2024 21:27:10 - Train - dqn Bot player, Score: 0, Total reward: -1, Steps: 23
+06.08.2024 21:27:10 - Train - bfs Bot player, Score: 35, Reason for death: Hit the wall or itself
+06.08.2024 21:27:10 - Train - bfs Bot player, Score: 35, Reason for death: Hit the wall or itself
+06.08.2024 21:27:10 - Train - bfs Bot player, Score: 35, Total reward: 34, Steps: 580
+06.08.2024 21:27:10 - Train - bfs Bot player, Score: 35, Total reward: 34, Steps: 580
+06.08.2024 21:27:10 - Train - dfs Bot player, Score: 0, Reason for death: Pressed opposite direction
+06.08.2024 21:27:10 - Train - dfs Bot player, Score: 0, Reason for death: Pressed opposite direction
+06.08.2024 21:27:10 - Train - dfs Bot player, Score: 0, Total reward: -1, Steps: 13
+06.08.2024 21:27:10 - Train - dfs Bot player, Score: 0, Total reward: -1, Steps: 13
+06.08.2024 21:27:10 - Train - a_star Bot player, Score: 100, Reason for death: Pressed opposite direction
+06.08.2024 21:27:10 - Train - a_star Bot player, Score: 100, Reason for death: Pressed opposite direction
+06.08.2024 21:27:10 - Train - a_star Bot player, Score: 100, Total reward: 99, Steps: 2035
+06.08.2024 21:27:10 - Train - a_star Bot player, Score: 100, Total reward: 99, Steps: 2035
+06.08.2024 21:27:23 - Train - dqn Bot player, Score: 0, Reason for death: Hit the wall or itself
+06.08.2024 21:27:23 - Train - dqn Bot player, Score: 0, Reason for death: Hit the wall or itself
+06.08.2024 21:27:27 - Train - dqn Bot player, Score: 0, Total reward: -1, Steps: 14
+06.08.2024 21:27:27 - Train - dqn Bot player, Score: 0, Total reward: -1, Steps: 14
+06.08.2024 21:27:27 - Train - bfs Bot player, Score: 64, Reason for death: Pressed opposite direction
+06.08.2024 21:27:27 - Train - bfs Bot player, Score: 64, Reason for death: Pressed opposite direction
+06.08.2024 21:27:27 - Train - bfs Bot player, Score: 64, Total reward: 63, Steps: 1004
+06.08.2024 21:27:27 - Train - bfs Bot player, Score: 64, Total reward: 63, Steps: 1004
+06.08.2024 22:20:51 - Train - dfs Bot player, Score: 1, Total reward: 1, Steps: 8088781
+06.08.2024 22:20:51 - Train - dfs Bot player, Score: 1, Total reward: 1, Steps: 8088781
+06.08.2024 22:20:51 - Train - a_star Bot player, Score: 0, Total reward: 0, Steps: 0
+06.08.2024 22:20:51 - Train - a_star Bot player, Score: 0, Total reward: 0, Steps: 0
+06.08.2024 22:22:13 - Play - Regular Bot player, Score: 0, Reason for death: Hit the wall or itself
+06.08.2024 22:22:39 - Play - Regular Bot player, Score: 0, Reason for death: Hit the wall or itself
+06.08.2024 22:22:54 - Play - Regular Bot player, Score: 0, Reason for death: Hit the wall or itself
+06.08.2024 22:23:13 - Play - Regular Bot player, Score: 0, Reason for death: Hit the wall or itself
+17.08.2024 16:25:35 - Play - Human player, Score: 0, Reason for death: Pressed opposite direction
+17.08.2024 16:25:37 - Play - Human player, Score: 0, Reason for death: Pressed opposite direction
+17.08.2024 16:34:44 - Play - DFS Bot player, Score: 0, Reason for death: Pressed opposite direction
+17.08.2024 16:34:45 - Play - DFS Bot player, Score: 0, Reason for death: Pressed opposite direction
+17.08.2024 16:34:47 - Play - DFS Bot player, Score: 0, Reason for death: Pressed opposite direction
+17.08.2024 16:34:48 - Play - DFS Bot player, Score: 0, Reason for death: Pressed opposite direction
+17.08.2024 16:34:49 - Play - DFS Bot player, Score: 0, Reason for death: Pressed opposite direction
+17.08.2024 16:34:50 - Play - DFS Bot player, Score: 0, Reason for death: Pressed opposite direction
+17.08.2024 16:34:52 - Play - DFS Bot player, Score: 0, Reason for death: Pressed opposite direction
+17.08.2024 16:34:53 - Play - DFS Bot player, Score: 0, Reason for death: Pressed opposite direction
+17.08.2024 16:34:54 - Play - DFS Bot player, Score: 0, Reason for death: Pressed opposite direction
+17.08.2024 16:34:56 - Play - DFS Bot player, Score: 0, Reason for death: Pressed opposite direction
+17.08.2024 16:34:57 - Play - DFS Bot player, Score: 0, Reason for death: Pressed opposite direction
+17.08.2024 16:34:58 - Play - DFS Bot player, Score: 0, Reason for death: Pressed opposite direction
+19.08.2024 20:30:18 - Play - DFS Bot player, Score: 0, Reason for death: Pressed opposite direction
+19.08.2024 20:30:41 - Play - DFS Bot player, Score: 0, Reason for death: Pressed opposite direction
+19.08.2024 20:31:12 - Play - DFS Bot player, Score: 0, Reason for death: Pressed opposite direction
+19.08.2024 20:31:13 - Play - DFS Bot player, Score: 0, Reason for death: Pressed opposite direction
+19.08.2024 20:31:15 - Play - DFS Bot player, Score: 0, Reason for death: Pressed opposite direction
+19.08.2024 20:31:16 - Play - DFS Bot player, Score: 0, Reason for death: Pressed opposite direction
+19.08.2024 20:31:17 - Play - DFS Bot player, Score: 0, Reason for death: Pressed opposite direction
+19.08.2024 20:31:19 - Play - DFS Bot player, Score: 0, Reason for death: Pressed opposite direction
+19.08.2024 20:32:14 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall or itself
+19.08.2024 20:32:15 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall or itself
+19.08.2024 20:32:16 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall or itself
+19.08.2024 20:32:18 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall or itself
+19.08.2024 20:34:26 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall or itself
+19.08.2024 20:34:37 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall or itself
+19.08.2024 20:42:29 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1
+19.08.2024 20:44:27 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 12
+19.08.2024 20:44:29 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 12
+19.08.2024 20:44:30 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 12
+19.08.2024 20:44:31 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 12
+19.08.2024 20:44:33 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 12
+19.08.2024 20:44:34 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 12
+19.08.2024 20:44:35 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 12
+19.08.2024 20:44:36 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 12
+19.08.2024 20:44:38 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 12
+19.08.2024 20:44:39 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 12
+19.08.2024 20:44:40 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 12
+19.08.2024 20:44:42 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 12
+19.08.2024 20:44:43 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 12
+19.08.2024 20:44:44 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 12
+19.08.2024 20:44:46 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 12
+19.08.2024 20:44:47 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 12
+19.08.2024 20:44:48 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 12
+19.08.2024 20:44:50 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 12
+19.08.2024 20:44:51 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 12
+19.08.2024 20:44:52 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 12
+19.08.2024 20:44:53 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 12
+19.08.2024 20:44:55 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 12
+19.08.2024 20:44:56 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 12
+19.08.2024 20:44:57 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 12
+19.08.2024 20:44:59 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 12
+19.08.2024 20:45:00 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 12
+19.08.2024 20:47:48 - Play - Human player, Score: 2, Reason for death: Hit the wall, Moves: 48, Snake Length: 3, Turns: 5
+19.08.2024 20:47:50 - Play - Human player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 0
+19.08.2024 20:48:01 - Play - Human player, Score: 6, Reason for death: Hit the wall, Moves: 115, Snake Length: 7, Turns: 21
+19.08.2024 20:48:03 - Play - Human player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 0
+19.08.2024 20:48:04 - Play - Human player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 0
+19.08.2024 20:49:44 - Play - Human player, Score: 1, Reason for death: Hit the wall, Moves: 23, Snake Length: 2, Turns: 3
+19.08.2024 20:49:46 - Play - Human player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 0
+19.08.2024 20:49:47 - Play - Human player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 0
+19.08.2024 20:49:50 - Play - Human player, Score: 0, Reason for death: Hit the wall, Moves: 27, Snake Length: 1, Turns: 4
+19.08.2024 20:49:51 - Play - Human player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 0
+19.08.2024 20:49:57 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 20:49:58 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 20:50:00 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 20:50:01 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 20:50:02 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 20:50:04 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 20:50:05 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 20:50:06 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 20:51:19 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 20:51:21 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 20:51:22 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 20:51:23 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 20:51:24 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 20:51:26 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 20:51:27 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 20:51:28 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 20:51:30 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 20:51:31 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 20:51:32 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 20:51:34 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 20:51:35 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 20:53:40 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 20:53:41 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 20:53:42 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 20:53:44 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 20:53:46 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 20:53:47 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 20:53:49 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 20:53:50 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 20:53:51 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 20:53:53 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 20:53:54 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 20:53:55 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 20:53:57 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 20:53:58 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 20:53:59 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 20:54:00 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 20:54:02 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 20:54:17 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 20:54:18 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 20:54:20 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 20:54:21 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 20:54:22 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 20:54:23 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 20:54:25 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 20:54:26 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 20:54:27 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 20:54:29 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 20:54:30 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 20:54:31 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 20:54:33 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 20:54:48 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 20:58:31 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 20:58:33 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 20:58:34 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 20:59:36 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 21:00:17 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 21:00:18 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 21:00:20 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 21:00:21 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 21:00:22 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 21:00:23 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 21:00:25 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 21:00:26 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 21:00:27 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 21:00:29 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 21:00:30 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 21:00:46 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 21:00:47 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 21:00:48 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 21:00:50 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 21:00:51 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 21:00:52 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 21:00:54 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 21:00:55 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 21:00:56 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 21:00:58 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 21:00:59 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 21:01:01 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 21:01:01 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 21:01:01 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 21:01:01 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 21:01:01 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 21:01:01 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 21:01:01 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 21:01:01 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 21:01:01 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 21:01:01 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 21:01:01 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 21:01:11 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 21:01:11 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 21:01:11 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 21:01:11 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 21:01:11 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 21:01:11 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 21:01:11 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 21:01:11 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 21:01:11 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 21:01:11 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 21:01:11 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 21:01:11 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 21:01:11 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 21:01:11 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 21:01:11 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 21:01:11 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 21:01:11 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 21:01:11 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 21:02:42 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 21:02:42 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 21:02:42 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 21:02:42 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 21:02:42 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 21:02:42 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 21:02:42 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 21:02:42 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 21:02:42 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 21:02:42 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 21:02:42 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 21:02:42 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 21:02:42 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 21:02:42 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 21:02:42 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 21:02:42 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 21:02:42 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 21:02:42 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 21:02:42 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 21:02:42 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 21:02:42 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 21:02:42 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 21:02:42 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 21:02:42 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 21:02:42 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 21:18:18 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 21:18:18 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 21:18:18 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 21:18:18 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 21:18:19 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 21:18:19 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 21:18:19 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 21:18:19 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 21:18:19 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 21:18:19 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 21:18:19 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 21:18:19 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 21:18:19 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 21:18:19 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 21:18:19 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 21:18:19 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 21:18:19 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 21:18:19 - Play - DFS Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 1
+19.08.2024 22:06:57 - Play - A* Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 13
+19.08.2024 22:06:57 - Play - A* Bot player, Score: 0, Reason for death: Hit the wall, Moves: 12, Snake Length: 1, Turns: 13
+19.08.2024 22:18:48 - Play - BFS Bot player, Score: 74, Reason for death: No path found, Moves: 1300, Snake Length: 75, Turns: 170
+19.08.2024 22:18:50 - Play - BFS Bot player, Score: 71, Reason for death: No path found, Moves: 1234, Snake Length: 72, Turns: 170
+19.08.2024 22:18:51 - Play - BFS Bot player, Score: 61, Reason for death: No path found, Moves: 1169, Snake Length: 62, Turns: 150
+19.08.2024 22:18:53 - Play - BFS Bot player, Score: 55, Reason for death: No path found, Moves: 912, Snake Length: 56, Turns: 128

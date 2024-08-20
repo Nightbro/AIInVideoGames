@@ -1,0 +1,1507 @@
+Type	Score	Reason for death	Moves	Snake Length	Turns
+ A* 	0	 Hit the wall	12	1	13
+ A* 	69	 No path found	1211	70	187
+ A* 	0	 Hit the wall	12	1	13
+ A* 	0	 Hit the wall	12	1	13
+ A* 	54	 No path found	936	55	132
+ A* 	54	 No path found	885	55	139
+ A* 	93	 No path found	1668	94	287
+ A* 	59	 No path found	994	60	145
+ A* 	87	 No path found	1702	88	256
+ A* 	0	 Hit the wall	12	1	13
+ A* 	68	 No path found	1246	69	198
+ A* 	63	 No path found	1228	64	182
+ A* 	0	 Hit the wall	12	1	13
+ A* 	59	 No path found	1230	60	174
+ A* 	0	 Hit the wall	12	1	13
+ A* 	0	 Hit the wall	12	1	13
+ A* 	80	 No path found	1444	81	235
+ A* 	70	 No path found	1190	71	194
+ A* 	59	 No path found	1086	60	152
+ A* 	0	 Hit the wall	12	1	13
+ A* 	0	 Hit the wall	12	1	13
+ A* 	60	 No path found	1097	61	169
+ A* 	88	 No path found	1643	89	250
+ A* 	70	 No path found	1252	71	195
+ A* 	72	 No path found	1394	73	220
+ A* 	87	 No path found	1684	88	263
+ A* 	57	 No path found	1082	58	148
+ A* 	33	 No path found	576	34	81
+ A* 	70	 No path found	1179	71	184
+ A* 	73	 No path found	1415	74	196
+ A* 	56	 No path found	1086	57	173
+ A* 	43	 No path found	769	44	109
+ A* 	59	 No path found	985	60	162
+ A* 	110	 No path found	1976	111	292
+ A* 	0	 Hit the wall	12	1	13
+ A* 	56	 No path found	1006	57	141
+ A* 	86	 No path found	1604	87	243
+ A* 	79	 No path found	1355	80	210
+ A* 	0	 Hit the wall	12	1	13
+ A* 	65	 No path found	1163	66	181
+ A* 	48	 No path found	913	49	125
+ A* 	74	 No path found	1337	75	196
+ A* 	54	 No path found	831	55	149
+ A* 	93	 No path found	1894	94	299
+ A* 	0	 Hit the wall	12	1	13
+ A* 	52	 No path found	1032	53	144
+ A* 	54	 No path found	866	55	143
+ A* 	90	 No path found	1648	91	291
+ A* 	66	 No path found	1282	67	195
+ A* 	70	 No path found	1332	71	186
+ A* 	0	 Hit the wall	12	1	13
+ A* 	0	 Hit the wall	12	1	13
+ A* 	63	 No path found	1155	64	160
+ A* 	62	 No path found	1230	63	181
+ A* 	86	 No path found	1617	87	251
+ A* 	28	 No path found	429	29	75
+ A* 	0	 Hit the wall	12	1	13
+ A* 	68	 No path found	1212	69	204
+ A* 	0	 Hit the wall	12	1	13
+ A* 	58	 No path found	967	59	168
+ A* 	70	 No path found	1326	71	194
+ A* 	0	 Hit the wall	12	1	13
+ A* 	91	 No path found	1662	92	249
+ A* 	0	 Hit the wall	12	1	13
+ A* 	47	 No path found	772	48	140
+ A* 	71	 No path found	1197	72	198
+ A* 	54	 No path found	1042	55	144
+ A* 	64	 No path found	1240	65	183
+ A* 	44	 No path found	880	45	120
+ A* 	100	 No path found	1689	101	309
+ A* 	83	 No path found	1657	84	265
+ A* 	36	 No path found	733	37	85
+ A* 	0	 Hit the wall	12	1	13
+ A* 	71	 No path found	1262	72	189
+ A* 	0	 Hit the wall	12	1	13
+ A* 	0	 Hit the wall	12	1	13
+ A* 	40	 No path found	636	41	110
+ A* 	65	 No path found	1227	66	168
+ A* 	0	 Hit the wall	12	1	13
+ A* 	67	 No path found	1158	68	169
+ A* 	63	 No path found	1057	64	168
+ A* 	93	 No path found	1700	94	263
+ A* 	97	 No path found	1928	98	295
+ A* 	67	 No path found	1221	68	171
+ A* 	90	 No path found	1802	91	300
+ A* 	54	 No path found	838	55	132
+ A* 	77	 No path found	1361	78	235
+ A* 	67	 No path found	1209	68	182
+ A* 	79	 No path found	1371	80	181
+ A* 	88	 No path found	1615	89	259
+ A* 	55	 No path found	1040	56	140
+ A* 	50	 No path found	931	51	133
+ A* 	76	 No path found	1386	77	216
+ A* 	94	 No path found	1736	95	293
+ A* 	0	 Hit the wall	12	1	13
+ A* 	82	 No path found	1685	83	235
+ A* 	43	 No path found	746	44	118
+ A* 	40	 No path found	785	41	112
+ A* 	46	 No path found	723	47	122
+ A* 	73	 No path found	1370	74	187
+ A* 	65	 No path found	1122	66	171
+ A* 	56	 No path found	1009	57	133
+ A* 	50	 No path found	904	51	146
+ A* 	81	 No path found	1421	82	232
+ A* 	37	 No path found	537	38	84
+ A* 	0	 Hit the wall	12	1	13
+ A* 	0	 Hit the wall	12	1	13
+ A* 	43	 No path found	744	44	114
+ A* 	0	 Hit the wall	12	1	13
+ A* 	54	 No path found	1025	55	142
+ A* 	34	 No path found	599	35	84
+ A* 	66	 No path found	1219	67	210
+ A* 	51	 No path found	904	52	141
+ A* 	51	 No path found	998	52	154
+ A* 	69	 No path found	1235	70	176
+ A* 	39	 No path found	825	40	99
+ A* 	0	 Hit the wall	12	1	13
+ A* 	89	 No path found	1656	90	273
+ A* 	63	 No path found	1061	64	183
+ A* 	0	 Hit the wall	12	1	13
+ A* 	52	 No path found	992	53	127
+ A* 	92	 No path found	1800	93	292
+ A* 	65	 No path found	1161	66	192
+ A* 	69	 No path found	1085	70	186
+ A* 	52	 No path found	991	53	137
+ A* 	74	 No path found	1496	75	222
+ A* 	32	 No path found	464	33	72
+ A* 	75	 No path found	1313	76	221
+ A* 	49	 No path found	950	50	127
+ A* 	62	 No path found	1102	63	178
+ A* 	47	 No path found	786	48	118
+ A* 	72	 No path found	1443	73	205
+ A* 	86	 No path found	1485	87	251
+ A* 	86	 No path found	1596	87	250
+ A* 	86	 No path found	1649	87	259
+ A* 	51	 No path found	966	52	129
+ A* 	0	 Hit the wall	12	1	13
+ A* 	60	 No path found	897	61	161
+ A* 	62	 No path found	1085	63	175
+ A* 	47	 No path found	878	48	122
+ A* 	45	 No path found	687	46	112
+ A* 	0	 Hit the wall	12	1	13
+ A* 	91	 No path found	1603	92	243
+ A* 	0	 Hit the wall	12	1	13
+ A* 	0	 Hit the wall	12	1	13
+ A* 	68	 No path found	1206	69	186
+ A* 	46	 No path found	861	47	113
+ A* 	65	 No path found	1123	66	210
+ A* 	38	 No path found	651	39	107
+ A* 	0	 Hit the wall	12	1	13
+ A* 	114	 No path found	2451	115	394
+ A* 	63	 No path found	1159	64	190
+ A* 	69	 No path found	1293	70	207
+ A* 	54	 No path found	956	55	158
+ A* 	97	 No path found	1800	98	276
+ A* 	64	 No path found	1085	65	179
+ A* 	67	 No path found	1278	68	210
+ A* 	0	 Hit the wall	12	1	13
+ A* 	74	 No path found	1303	75	198
+ A* 	49	 No path found	775	50	114
+ A* 	61	 No path found	1053	62	150
+ A* 	0	 Hit the wall	12	1	13
+ A* 	0	 Hit the wall	12	1	13
+ A* 	43	 No path found	768	44	114
+ A* 	41	 No path found	638	42	119
+ A* 	35	 No path found	514	36	77
+ A* 	62	 No path found	906	63	168
+ A* 	92	 No path found	1635	93	288
+ A* 	72	 No path found	1436	73	206
+ A* 	0	 Hit the wall	12	1	13
+ A* 	0	 Hit the wall	12	1	13
+ A* 	76	 No path found	1526	77	226
+ A* 	84	 No path found	1597	85	238
+ A* 	104	 No path found	2142	105	350
+ A* 	45	 No path found	771	46	112
+ A* 	56	 No path found	934	57	140
+ A* 	0	 Hit the wall	12	1	13
+ A* 	0	 Hit the wall	12	1	13
+ A* 	67	 No path found	1198	68	182
+ A* 	82	 No path found	1562	83	275
+ A* 	0	 Hit the wall	12	1	13
+ A* 	0	 Hit the wall	12	1	13
+ A* 	78	 No path found	1513	79	215
+ A* 	0	 Hit the wall	12	1	13
+ A* 	98	 No path found	2003	99	311
+ A* 	53	 No path found	919	54	132
+ A* 	43	 No path found	780	44	104
+ A* 	0	 Hit the wall	12	1	13
+ A* 	44	 No path found	779	45	103
+ A* 	0	 Hit the wall	12	1	13
+ A* 	57	 No path found	1017	58	158
+ A* 	27	 No path found	389	28	56
+ A* 	82	 No path found	1551	83	258
+ A* 	69	 No path found	1132	70	184
+ A* 	90	 No path found	1597	91	248
+ A* 	0	 Hit the wall	12	1	13
+ A* 	0	 Hit the wall	12	1	13
+ A* 	55	 No path found	905	56	145
+ A* 	41	 No path found	704	42	104
+ A* 	82	 No path found	1401	83	221
+ A* 	0	 Hit the wall	12	1	13
+ A* 	78	 No path found	1635	79	227
+ A* 	79	 No path found	1400	80	222
+ A* 	0	 Hit the wall	12	1	13
+ A* 	0	 Hit the wall	12	1	13
+ A* 	52	 No path found	728	53	146
+ A* 	49	 No path found	953	50	121
+ A* 	76	 No path found	1355	77	230
+ A* 	0	 Hit the wall	12	1	13
+ A* 	74	 No path found	1368	75	196
+ A* 	58	 No path found	996	59	152
+ A* 	47	 No path found	813	48	132
+ A* 	49	 No path found	809	50	132
+ A* 	64	 No path found	1211	65	178
+ A* 	0	 Hit the wall	12	1	13
+ A* 	89	 No path found	1610	90	279
+ A* 	66	 No path found	1218	67	190
+ A* 	100	 No path found	2180	101	309
+ A* 	102	 No path found	1890	103	300
+ A* 	78	 No path found	1259	79	217
+ A* 	44	 No path found	812	45	125
+ A* 	0	 Hit the wall	12	1	13
+ A* 	81	 No path found	1584	82	235
+ A* 	30	 No path found	554	31	82
+ A* 	58	 No path found	1033	59	162
+ A* 	84	 No path found	1583	85	234
+ A* 	43	 No path found	773	44	102
+ A* 	86	 No path found	1524	87	250
+ A* 	61	 No path found	1119	62	159
+ A* 	110	 No path found	2216	111	338
+ A* 	95	 No path found	1654	96	300
+ A* 	42	 No path found	732	43	97
+ A* 	74	 No path found	1303	75	227
+ A* 	77	 No path found	1469	78	215
+ A* 	0	 Hit the wall	12	1	13
+ A* 	59	 No path found	1079	60	172
+ A* 	70	 No path found	1154	71	169
+ A* 	64	 No path found	1025	65	166
+ A* 	73	 No path found	1386	74	215
+ A* 	0	 Hit the wall	12	1	13
+ A* 	0	 Hit the wall	12	1	13
+ A* 	78	 No path found	1459	79	226
+ A* 	0	 Hit the wall	12	1	13
+ A* 	54	 No path found	907	55	135
+ A* 	69	 No path found	1182	70	201
+ A* 	61	 No path found	1139	62	172
+ A* 	0	 Hit the wall	12	1	13
+ A* 	65	 No path found	1224	66	190
+ A* 	0	 Hit the wall	12	1	13
+ A* 	0	 Hit the wall	12	1	13
+ A* 	69	 No path found	1251	70	199
+ A* 	72	 No path found	1321	73	204
+ A* 	55	 No path found	1026	56	153
+ A* 	0	 Hit the wall	12	1	13
+ A* 	70	 No path found	1200	71	196
+ A* 	0	 Hit the wall	12	1	13
+ A* 	0	 Hit the wall	12	1	13
+ A* 	75	 No path found	1291	76	224
+ A* 	0	 Hit the wall	12	1	13
+ A* 	59	 No path found	1025	60	160
+ A* 	82	 No path found	1479	83	246
+ A* 	0	 Hit the wall	12	1	13
+ A* 	0	 Hit the wall	12	1	13
+ A* 	65	 No path found	1271	66	168
+ A* 	0	 Hit the wall	12	1	13
+ A* 	49	 No path found	941	50	136
+ A* 	0	 Hit the wall	12	1	13
+ A* 	55	 No path found	929	56	138
+ A* 	60	 No path found	1136	61	165
+ A* 	83	 No path found	1447	84	225
+ A* 	66	 No path found	1134	67	181
+ A* 	61	 No path found	1101	62	176
+ A* 	60	 No path found	1087	61	154
+ A* 	0	 Hit the wall	12	1	13
+ A* 	0	 Hit the wall	12	1	13
+ A* 	0	 Hit the wall	12	1	13
+ A* 	58	 No path found	928	59	154
+ A* 	74	 No path found	1276	75	183
+ A* 	0	 Hit the wall	12	1	13
+ A* 	59	 No path found	956	60	153
+ A* 	71	 No path found	1133	72	196
+ A* 	65	 No path found	1092	66	163
+ A* 	49	 No path found	803	50	127
+ A* 	56	 No path found	1030	57	141
+ A* 	43	 No path found	852	44	107
+ A* 	55	 No path found	1003	56	157
+ A* 	87	 No path found	1627	88	261
+ A* 	54	 No path found	1004	55	160
+ A* 	0	 Hit the wall	12	1	13
+ A* 	0	 Hit the wall	12	1	13
+ A* 	53	 No path found	935	54	135
+ A* 	57	 No path found	941	58	159
+ A* 	57	 No path found	1048	58	149
+ A* 	80	 No path found	1585	81	227
+ A* 	72	 No path found	1236	73	199
+ A* 	62	 No path found	944	63	161
+ A* 	63	 No path found	1084	64	170
+ A* 	52	 No path found	934	53	158
+ A* 	79	 No path found	1499	80	234
+ A* 	0	 Hit the wall	12	1	13
+ A* 	104	 No path found	1916	105	314
+ A* 	68	 No path found	1179	69	188
+ A* 	0	 Hit the wall	12	1	13
+ A* 	72	 No path found	1286	73	199
+ A* 	0	 Hit the wall	12	1	13
+ A* 	63	 No path found	1041	64	153
+ A* 	55	 No path found	930	56	146
+ A* 	84	 No path found	1484	85	222
+ A* 	76	 No path found	1326	77	205
+ A* 	83	 No path found	1486	84	215
+ A* 	64	 No path found	1093	65	171
+ A* 	68	 No path found	1133	69	183
+ A* 	80	 No path found	1661	81	227
+ A* 	35	 No path found	594	36	92
+ A* 	81	 No path found	1577	82	220
+ A* 	57	 No path found	1045	58	166
+ A* 	0	 Hit the wall	12	1	13
+ A* 	84	 No path found	1670	85	256
+ A* 	87	 No path found	1564	88	243
+ A* 	46	 No path found	718	47	100
+ A* 	68	 No path found	1280	69	186
+ A* 	95	 No path found	1755	96	281
+ A* 	0	 Hit the wall	12	1	13
+ A* 	63	 No path found	1160	64	175
+ A* 	0	 Hit the wall	12	1	13
+ A* 	74	 No path found	1285	75	209
+ A* 	69	 No path found	1236	70	189
+ A* 	0	 Hit the wall	12	1	13
+ A* 	39	 No path found	671	40	98
+ A* 	46	 No path found	776	47	120
+ A* 	0	 Hit the wall	12	1	13
+ A* 	88	 No path found	1654	89	264
+ A* 	55	 No path found	1001	56	146
+ A* 	0	 Hit the wall	12	1	13
+ A* 	72	 No path found	1248	73	199
+ A* 	0	 Hit the wall	12	1	13
+ A* 	54	 No path found	1055	55	154
+ A* 	0	 Hit the wall	12	1	13
+ A* 	0	 Hit the wall	12	1	13
+ A* 	48	 No path found	861	49	127
+ A* 	87	 No path found	1393	88	241
+ A* 	48	 No path found	814	49	123
+ A* 	61	 No path found	1086	62	161
+ A* 	58	 No path found	1023	59	159
+ A* 	0	 Hit the wall	12	1	13
+ A* 	77	 No path found	1480	78	252
+ A* 	64	 No path found	1076	65	198
+ A* 	113	 No path found	2071	114	395
+ A* 	76	 No path found	1299	77	219
+ A* 	66	 No path found	1222	67	179
+ A* 	0	 Hit the wall	12	1	13
+ A* 	0	 Hit the wall	12	1	13
+ A* 	62	 No path found	1155	63	198
+ A* 	59	 No path found	1029	60	156
+ A* 	89	 No path found	1613	90	287
+ A* 	70	 No path found	1145	71	193
+ A* 	0	 Hit the wall	12	1	13
+ A* 	60	 No path found	976	61	158
+ A* 	40	 No path found	670	41	107
+ A* 	67	 No path found	1384	68	196
+ A* 	61	 No path found	999	62	158
+ A* 	45	 No path found	722	46	104
+ A* 	0	 Hit the wall	12	1	13
+ A* 	90	 No path found	1472	91	290
+ A* 	88	 No path found	1645	89	256
+ A* 	70	 No path found	1260	71	187
+ A* 	60	 No path found	1012	61	174
+ A* 	64	 No path found	1205	65	179
+ A* 	59	 No path found	1032	60	169
+ A* 	0	 Hit the wall	12	1	13
+ A* 	83	 No path found	1428	84	276
+ A* 	60	 No path found	1070	61	147
+ A* 	32	 No path found	573	33	78
+ A* 	57	 No path found	1084	58	158
+ A* 	51	 No path found	930	52	146
+ A* 	83	 No path found	1529	84	242
+ A* 	52	 No path found	934	53	147
+ A* 	0	 Hit the wall	12	1	13
+ A* 	68	 No path found	1225	69	198
+ A* 	53	 No path found	976	54	152
+ A* 	0	 Hit the wall	12	1	13
+ A* 	0	 Hit the wall	12	1	13
+ A* 	102	 No path found	1774	103	285
+ A* 	15	 No path found	278	16	32
+ A* 	59	 No path found	947	60	152
+ A* 	46	 No path found	707	47	120
+ A* 	77	 No path found	1386	78	230
+ A* 	55	 No path found	1062	56	150
+ A* 	77	 No path found	1295	78	220
+ A* 	64	 No path found	1082	65	191
+ A* 	0	 Hit the wall	12	1	13
+ A* 	89	 No path found	1679	90	281
+ A* 	0	 Hit the wall	12	1	13
+ A* 	0	 Hit the wall	12	1	13
+ A* 	22	 No path found	386	23	59
+ A* 	67	 No path found	1166	68	173
+ A* 	45	 No path found	774	46	132
+ A* 	76	 No path found	1286	77	201
+ A* 	62	 No path found	1085	63	167
+ A* 	0	 Hit the wall	12	1	13
+ A* 	73	 No path found	1331	74	199
+ A* 	78	 No path found	1268	79	211
+ A* 	0	 Hit the wall	12	1	13
+ A* 	0	 Hit the wall	12	1	13
+ A* 	36	 No path found	580	37	79
+ A* 	0	 Hit the wall	12	1	13
+ A* 	67	 No path found	1221	68	171
+ A* 	53	 No path found	905	54	158
+ A* 	91	 No path found	1784	92	268
+ A* 	96	 No path found	1825	97	285
+ A* 	42	 No path found	747	43	104
+ A* 	66	 No path found	1144	67	185
+ A* 	63	 No path found	1190	64	219
+ A* 	0	 Hit the wall	12	1	13
+ A* 	51	 No path found	976	52	146
+ A* 	44	 No path found	761	45	102
+ A* 	68	 No path found	1238	69	182
+ A* 	85	 No path found	1649	86	234
+ A* 	47	 No path found	831	48	110
+ A* 	97	 No path found	1968	98	322
+ A* 	40	 No path found	712	41	105
+ A* 	45	 No path found	811	46	114
+ A* 	61	 No path found	1068	62	172
+ A* 	38	 No path found	627	39	104
+ A* 	77	 No path found	1458	78	232
+ A* 	65	 No path found	1246	66	176
+ A* 	0	 Hit the wall	12	1	13
+ A* 	0	 Hit the wall	12	1	13
+ A* 	0	 Hit the wall	12	1	13
+ A* 	0	 Hit the wall	12	1	13
+ A* 	38	 No path found	571	39	102
+ A* 	65	 No path found	1168	66	180
+ A* 	57	 No path found	998	58	142
+ A* 	0	 Hit the wall	12	1	13
+ A* 	29	 No path found	542	30	62
+ A* 	55	 No path found	954	56	152
+ A* 	73	 No path found	1438	74	226
+ A* 	71	 No path found	1251	72	196
+ A* 	86	 No path found	1752	87	249
+ A* 	51	 No path found	935	52	154
+ A* 	0	 Hit the wall	12	1	13
+ A* 	49	 No path found	797	50	120
+ A* 	65	 No path found	1113	66	177
+ A* 	40	 No path found	709	41	100
+ A* 	40	 No path found	791	41	105
+ A* 	55	 No path found	901	56	152
+ A* 	40	 No path found	592	41	100
+ A* 	48	 No path found	914	49	142
+ A* 	27	 No path found	419	28	69
+ A* 	57	 No path found	1127	58	146
+ A* 	87	 No path found	1727	88	270
+ A* 	74	 No path found	1351	75	202
+ A* 	47	 No path found	825	48	119
+ A* 	50	 No path found	979	51	161
+ A* 	55	 No path found	999	56	136
+ A* 	87	 No path found	1802	88	260
+ A* 	74	 No path found	1418	75	245
+ A* 	0	 Hit the wall	12	1	13
+ A* 	75	 No path found	1319	76	220
+ A* 	56	 No path found	977	57	165
+ A* 	0	 Hit the wall	12	1	13
+ A* 	86	 No path found	1537	87	240
+ A* 	68	 No path found	1255	69	191
+ A* 	29	 No path found	450	30	76
+ A* 	0	 Hit the wall	12	1	13
+ A* 	55	 No path found	929	56	151
+ A* 	66	 No path found	1039	67	174
+ A* 	0	 Hit the wall	12	1	13
+ A* 	56	 No path found	998	57	156
+ A* 	68	 No path found	1182	69	184
+ A* 	61	 No path found	953	62	176
+ A* 	87	 No path found	1687	88	252
+ A* 	83	 No path found	1689	84	274
+ A* 	73	 No path found	1231	74	203
+ A* 	0	 Hit the wall	12	1	13
+ A* 	33	 No path found	580	34	83
+ A* 	63	 No path found	1347	64	191
+ A* 	0	 Hit the wall	12	1	13
+ A* 	44	 No path found	709	45	117
+ A* 	75	 No path found	1335	76	195
+ A* 	76	 No path found	1411	77	200
+ A* 	0	 Hit the wall	12	1	13
+ A* 	0	 Hit the wall	12	1	13
+ A* 	0	 Hit the wall	12	1	13
+ A* 	75	 No path found	1398	76	206
+ A* 	76	 No path found	1317	77	226
+ A* 	46	 No path found	841	47	124
+ A* 	0	 Hit the wall	12	1	13
+ A* 	0	 Hit the wall	12	1	13
+ A* 	81	 No path found	1423	82	220
+ A* 	0	 Hit the wall	12	1	13
+ A* 	55	 No path found	916	56	128
+ A* 	69	 No path found	1130	70	205
+ A* 	42	 No path found	774	43	111
+ A* 	76	 No path found	1223	77	198
+ A* 	63	 No path found	1191	64	173
+ A* 	0	 Hit the wall	12	1	13
+ A* 	0	 Hit the wall	12	1	13
+ A* 	0	 Hit the wall	12	1	13
+ A* 	0	 Hit the wall	12	1	13
+ A* 	44	 No path found	762	45	121
+ BFS 	50	 No path found	951	51	138
+ BFS 	61	 No path found	1109	62	154
+ BFS 	48	 No path found	782	49	102
+ BFS 	71	 No path found	1442	72	178
+ BFS 	46	 No path found	759	47	104
+ BFS 	66	 No path found	1244	67	152
+ BFS 	50	 No path found	849	51	116
+ BFS 	0	 Hit the wall	12	1	13
+ BFS 	45	 No path found	807	46	104
+ BFS 	50	 No path found	952	51	131
+ BFS 	57	 No path found	1070	58	136
+ BFS 	57	 No path found	978	58	132
+ BFS 	64	 No path found	1151	65	156
+ BFS 	23	 No path found	412	24	50
+ BFS 	59	 No path found	1054	60	142
+ BFS 	52	 No path found	937	53	123
+ BFS 	67	 No path found	1345	68	162
+ BFS 	68	 No path found	1239	69	156
+ BFS 	68	 No path found	1232	69	174
+ BFS 	58	 No path found	1037	59	135
+ BFS 	63	 No path found	1176	64	164
+ BFS 	34	 No path found	635	35	72
+ BFS 	40	 No path found	705	41	90
+ BFS 	54	 No path found	826	55	124
+ BFS 	75	 No path found	1578	76	210
+ BFS 	55	 No path found	987	56	134
+ BFS 	69	 No path found	1181	70	172
+ BFS 	44	 No path found	773	45	92
+ BFS 	69	 No path found	1380	70	188
+ BFS 	34	 No path found	577	35	74
+ BFS 	69	 No path found	1220	70	196
+ BFS 	70	 No path found	1248	71	176
+ BFS 	58	 No path found	912	59	136
+ BFS 	46	 No path found	809	47	106
+ BFS 	53	 No path found	906	54	125
+ BFS 	46	 No path found	797	47	108
+ BFS 	90	 No path found	1702	91	224
+ BFS 	63	 No path found	1144	64	162
+ BFS 	71	 No path found	1431	72	174
+ BFS 	65	 No path found	1059	66	160
+ BFS 	43	 No path found	723	44	96
+ BFS 	67	 No path found	1207	68	164
+ BFS 	31	 No path found	436	32	64
+ BFS 	62	 No path found	1195	63	154
+ BFS 	82	 No path found	1612	83	204
+ BFS 	0	 Hit the wall	12	1	13
+ BFS 	80	 No path found	1440	81	218
+ BFS 	68	 No path found	1320	69	158
+ BFS 	60	 No path found	1086	61	142
+ BFS 	62	 No path found	1106	63	161
+ BFS 	93	 No path found	1596	94	236
+ BFS 	83	 No path found	1721	84	224
+ BFS 	67	 No path found	1272	68	161
+ BFS 	35	 No path found	631	36	81
+ BFS 	49	 No path found	779	50	108
+ BFS 	51	 No path found	886	52	116
+ BFS 	82	 No path found	1477	83	204
+ BFS 	83	 No path found	1885	84	226
+ BFS 	80	 No path found	1575	81	200
+ BFS 	60	 No path found	1136	61	150
+ BFS 	75	 No path found	1375	76	196
+ BFS 	0	 Hit the wall	12	1	13
+ BFS 	81	 No path found	1426	82	212
+ BFS 	67	 No path found	1311	68	166
+ BFS 	92	 No path found	1888	93	250
+ BFS 	53	 No path found	1014	54	118
+ BFS 	95	 No path found	1705	96	256
+ BFS 	67	 No path found	1275	68	170
+ BFS 	77	 No path found	1344	78	188
+ BFS 	84	 No path found	1495	85	220
+ BFS 	73	 No path found	1343	74	196
+ BFS 	62	 No path found	973	63	142
+ BFS 	94	 No path found	1846	95	246
+ BFS 	79	 No path found	1498	80	192
+ BFS 	76	 No path found	1334	77	210
+ BFS 	46	 No path found	789	47	106
+ BFS 	71	 No path found	1408	72	174
+ BFS 	73	 No path found	1369	74	192
+ BFS 	57	 No path found	937	58	132
+ BFS 	50	 No path found	857	51	119
+ BFS 	63	 No path found	1217	64	162
+ BFS 	0	 Hit the wall	12	1	13
+ BFS 	81	 No path found	1517	82	220
+ BFS 	50	 No path found	933	51	112
+ BFS 	66	 No path found	1166	67	158
+ BFS 	42	 No path found	677	43	96
+ BFS 	57	 No path found	979	58	136
+ BFS 	58	 No path found	1034	59	144
+ BFS 	78	 No path found	1491	79	212
+ BFS 	94	 No path found	1772	95	238
+ BFS 	91	 No path found	1805	92	244
+ BFS 	46	 No path found	778	47	100
+ BFS 	62	 No path found	1081	63	146
+ BFS 	69	 No path found	1257	70	188
+ BFS 	67	 No path found	1204	68	157
+ BFS 	73	 No path found	1322	74	186
+ BFS 	60	 No path found	1084	61	138
+ BFS 	65	 No path found	1167	66	158
+ BFS 	74	 No path found	1264	75	189
+ BFS 	65	 No path found	1161	66	150
+ BFS 	74	 No path found	1373	75	192
+ BFS 	67	 No path found	1132	68	170
+ BFS 	42	 No path found	807	43	84
+ BFS 	58	 No path found	1038	59	143
+ BFS 	66	 No path found	1294	67	160
+ BFS 	58	 No path found	1084	59	130
+ BFS 	40	 No path found	687	41	86
+ BFS 	57	 No path found	1022	58	127
+ BFS 	63	 No path found	1137	64	152
+ BFS 	73	 No path found	1257	74	189
+ BFS 	66	 No path found	1080	67	160
+ BFS 	57	 No path found	1002	58	146
+ BFS 	34	 No path found	544	35	73
+ BFS 	64	 No path found	1168	65	158
+ BFS 	53	 No path found	905	54	119
+ BFS 	84	 No path found	1362	85	214
+ BFS 	85	 No path found	1537	86	218
+ BFS 	80	 No path found	1607	81	206
+ BFS 	28	 No path found	557	29	58
+ BFS 	66	 No path found	1279	67	168
+ BFS 	61	 No path found	1276	62	142
+ BFS 	39	 No path found	681	40	86
+ BFS 	55	 No path found	961	56	124
+ BFS 	36	 No path found	594	37	80
+ BFS 	71	 No path found	1303	72	196
+ BFS 	52	 No path found	812	53	118
+ BFS 	35	 No path found	614	36	76
+ BFS 	51	 No path found	899	52	116
+ BFS 	46	 No path found	808	47	108
+ BFS 	37	 No path found	601	38	82
+ BFS 	69	 No path found	1181	70	160
+ BFS 	38	 No path found	699	39	80
+ BFS 	97	 No path found	1942	98	266
+ BFS 	51	 No path found	1006	52	122
+ BFS 	43	 No path found	802	44	92
+ BFS 	58	 No path found	970	59	154
+ BFS 	44	 No path found	816	45	104
+ BFS 	0	 Hit the wall	12	1	13
+ BFS 	31	 No path found	484	32	68
+ BFS 	38	 No path found	585	39	96
+ BFS 	56	 No path found	901	57	130
+ BFS 	69	 No path found	1317	70	168
+ BFS 	87	 No path found	1749	88	214
+ BFS 	66	 No path found	1261	67	152
+ BFS 	69	 No path found	1236	70	162
+ BFS 	85	 No path found	1529	86	224
+ BFS 	64	 No path found	1106	65	170
+ BFS 	45	 No path found	769	46	106
+ BFS 	54	 No path found	1009	55	130
+ BFS 	30	 No path found	429	31	62
+ BFS 	59	 No path found	1058	60	140
+ BFS 	85	 No path found	1628	86	218
+ BFS 	74	 No path found	1355	75	170
+ BFS 	82	 No path found	1611	83	210
+ BFS 	66	 No path found	1177	67	153
+ BFS 	40	 No path found	719	41	88
+ BFS 	50	 No path found	897	51	130
+ BFS 	73	 No path found	1339	74	194
+ BFS 	67	 No path found	1139	68	160
+ BFS 	97	 No path found	1710	98	258
+ BFS 	61	 No path found	1009	62	146
+ BFS 	76	 No path found	1309	77	192
+ BFS 	42	 No path found	748	43	100
+ BFS 	46	 No path found	671	47	100
+ BFS 	77	 No path found	1383	78	196
+ BFS 	72	 No path found	1358	73	188
+ BFS 	35	 No path found	626	36	72
+ BFS 	61	 No path found	998	62	146
+ BFS 	72	 No path found	1266	73	204
+ BFS 	58	 No path found	1056	59	138
+ BFS 	66	 No path found	1208	67	152
+ BFS 	56	 No path found	935	57	134
+ BFS 	39	 No path found	654	40	94
+ BFS 	60	 No path found	1080	61	146
+ BFS 	60	 No path found	1159	61	146
+ BFS 	82	 No path found	1572	83	214
+ BFS 	80	 No path found	1520	81	200
+ BFS 	74	 No path found	1316	75	168
+ BFS 	64	 No path found	1252	65	162
+ BFS 	93	 No path found	1810	94	246
+ BFS 	45	 No path found	719	46	102
+ BFS 	53	 No path found	924	54	126
+ BFS 	45	 No path found	878	46	100
+ BFS 	78	 No path found	1470	79	207
+ BFS 	40	 No path found	702	41	96
+ BFS 	45	 No path found	848	46	101
+ BFS 	76	 No path found	1293	77	202
+ BFS 	48	 No path found	751	49	114
+ BFS 	70	 No path found	1279	71	170
+ BFS 	52	 No path found	840	53	116
+ BFS 	64	 No path found	1137	65	164
+ BFS 	68	 No path found	1315	69	166
+ BFS 	72	 No path found	1354	73	182
+ BFS 	36	 No path found	587	37	82
+ BFS 	83	 No path found	1681	84	216
+ BFS 	75	 No path found	1404	76	194
+ BFS 	55	 No path found	1054	56	124
+ BFS 	60	 No path found	1048	61	136
+ BFS 	57	 No path found	1013	58	134
+ BFS 	36	 No path found	757	37	80
+ BFS 	56	 No path found	1015	57	139
+ BFS 	62	 No path found	1170	63	162
+ BFS 	0	 Hit the wall	12	1	13
+ BFS 	77	 No path found	1533	78	182
+ BFS 	69	 No path found	1119	70	176
+ BFS 	59	 No path found	1040	60	152
+ BFS 	85	 No path found	1522	86	206
+ BFS 	52	 No path found	885	53	127
+ BFS 	56	 No path found	923	57	124
+ BFS 	46	 No path found	804	47	112
+ BFS 	57	 No path found	955	58	133
+ BFS 	67	 No path found	1275	68	182
+ BFS 	71	 No path found	1353	72	166
+ BFS 	58	 No path found	1084	59	134
+ BFS 	58	 No path found	1015	59	146
+ BFS 	59	 No path found	1066	60	156
+ BFS 	56	 No path found	1006	57	130
+ BFS 	113	 No path found	2432	114	318
+ BFS 	39	 No path found	670	40	88
+ BFS 	38	 No path found	605	39	82
+ BFS 	63	 No path found	1217	64	150
+ BFS 	79	 No path found	1371	80	192
+ BFS 	87	 No path found	1740	88	229
+ BFS 	70	 No path found	1328	71	184
+ BFS 	75	 No path found	1372	76	185
+ BFS 	63	 No path found	1056	64	154
+ BFS 	67	 No path found	1222	68	158
+ BFS 	50	 No path found	859	51	110
+ BFS 	82	 No path found	1612	83	196
+ BFS 	70	 No path found	1254	71	170
+ BFS 	69	 No path found	1287	70	170
+ BFS 	92	 No path found	1698	93	230
+ BFS 	69	 No path found	1236	70	194
+ BFS 	35	 No path found	533	36	74
+ BFS 	95	 No path found	1799	96	234
+ BFS 	80	 No path found	1595	81	208
+ BFS 	96	 No path found	1719	97	244
+ BFS 	72	 No path found	1260	73	188
+ BFS 	70	 No path found	1076	71	168
+ BFS 	58	 No path found	940	59	140
+ BFS 	79	 No path found	1508	80	210
+ BFS 	41	 No path found	723	42	80
+ BFS 	56	 No path found	1022	57	136
+ BFS 	35	 No path found	588	36	76
+ BFS 	26	 No path found	326	27	53
+ BFS 	54	 No path found	996	55	115
+ BFS 	37	 No path found	564	38	78
+ BFS 	54	 No path found	1087	55	134
+ BFS 	67	 No path found	1157	68	162
+ BFS 	73	 No path found	1464	74	192
+ BFS 	66	 No path found	1181	67	167
+ BFS 	50	 No path found	966	51	117
+ BFS 	98	 No path found	1803	99	254
+ BFS 	65	 No path found	1127	66	150
+ BFS 	36	 No path found	609	37	74
+ BFS 	42	 No path found	765	43	92
+ BFS 	74	 No path found	1335	75	198
+ BFS 	35	 No path found	530	36	79
+ BFS 	62	 No path found	1204	63	155
+ BFS 	84	 No path found	1596	85	202
+ BFS 	53	 No path found	957	54	120
+ BFS 	60	 No path found	1063	61	140
+ BFS 	47	 No path found	826	48	102
+ BFS 	85	 No path found	1451	86	214
+ BFS 	57	 No path found	946	58	144
+ BFS 	59	 No path found	1012	60	138
+ BFS 	95	 No path found	1669	96	251
+ BFS 	91	 No path found	1722	92	224
+ BFS 	84	 No path found	1740	85	240
+ BFS 	44	 No path found	746	45	88
+ BFS 	77	 No path found	1369	78	200
+ BFS 	45	 No path found	784	46	91
+ BFS 	71	 No path found	1345	72	184
+ BFS 	98	 No path found	1932	99	254
+ BFS 	40	 No path found	693	41	90
+ BFS 	49	 No path found	837	50	116
+ BFS 	51	 No path found	811	52	130
+ BFS 	58	 No path found	1052	59	130
+ BFS 	62	 No path found	1133	63	144
+ BFS 	55	 No path found	1043	56	132
+ BFS 	79	 No path found	1326	80	206
+ BFS 	75	 No path found	1365	76	182
+ BFS 	59	 No path found	1028	60	156
+ BFS 	19	 No path found	350	20	38
+ BFS 	74	 No path found	1255	75	186
+ BFS 	47	 No path found	894	48	106
+ BFS 	61	 No path found	1077	62	145
+ BFS 	49	 No path found	813	50	110
+ BFS 	61	 No path found	1022	62	170
+ BFS 	46	 No path found	902	47	104
+ BFS 	46	 No path found	827	47	102
+ BFS 	65	 No path found	1044	66	159
+ BFS 	46	 No path found	874	47	104
+ BFS 	49	 No path found	807	50	116
+ BFS 	57	 No path found	1111	58	142
+ BFS 	78	 No path found	1531	79	206
+ BFS 	81	 No path found	1618	82	214
+ BFS 	42	 No path found	718	43	86
+ BFS 	44	 No path found	729	45	96
+ BFS 	71	 No path found	1312	72	204
+ BFS 	59	 No path found	999	60	128
+ BFS 	65	 No path found	1199	66	167
+ BFS 	35	 No path found	674	36	74
+ BFS 	51	 No path found	828	52	114
+ BFS 	63	 No path found	1263	64	158
+ BFS 	95	 No path found	1918	96	228
+ BFS 	30	 No path found	576	31	68
+ BFS 	43	 No path found	625	44	90
+ BFS 	55	 No path found	956	56	148
+ BFS 	61	 No path found	1061	62	134
+ BFS 	66	 No path found	1091	67	161
+ BFS 	39	 No path found	672	40	94
+ BFS 	81	 No path found	1372	82	194
+ BFS 	59	 No path found	1141	60	144
+ BFS 	72	 No path found	1259	73	182
+ BFS 	52	 No path found	789	53	133
+ BFS 	66	 No path found	1142	67	164
+ BFS 	49	 No path found	924	50	108
+ BFS 	64	 No path found	1071	65	164
+ BFS 	54	 No path found	956	55	134
+ BFS 	59	 No path found	953	60	130
+ BFS 	67	 No path found	1266	68	160
+ BFS 	95	 No path found	1922	96	242
+ BFS 	54	 No path found	973	55	136
+ BFS 	40	 No path found	741	41	84
+ BFS 	54	 No path found	946	55	128
+ BFS 	51	 No path found	933	52	128
+ BFS 	23	 No path found	360	24	48
+ BFS 	83	 No path found	1561	84	224
+ BFS 	69	 No path found	1173	70	160
+ BFS 	62	 No path found	1292	63	158
+ BFS 	72	 No path found	1393	73	182
+ BFS 	42	 No path found	679	43	92
+ BFS 	59	 No path found	890	60	132
+ BFS 	86	 No path found	1660	87	239
+ BFS 	56	 No path found	900	57	136
+ BFS 	57	 No path found	1078	58	136
+ BFS 	36	 No path found	515	37	86
+ BFS 	84	 No path found	1586	85	218
+ BFS 	41	 No path found	682	42	90
+ BFS 	75	 No path found	1453	76	180
+ BFS 	65	 No path found	1092	66	152
+ BFS 	54	 No path found	1021	55	132
+ BFS 	47	 No path found	770	48	114
+ BFS 	74	 No path found	1331	75	178
+ BFS 	52	 No path found	825	53	114
+ BFS 	71	 No path found	1338	72	172
+ BFS 	40	 No path found	660	41	92
+ BFS 	62	 No path found	1130	63	142
+ BFS 	43	 No path found	795	44	98
+ BFS 	85	 No path found	1640	86	232
+ BFS 	72	 No path found	1396	73	174
+ BFS 	43	 No path found	724	44	96
+ BFS 	92	 No path found	1768	93	266
+ BFS 	49	 No path found	787	50	100
+ BFS 	68	 No path found	1238	69	164
+ BFS 	75	 No path found	1290	76	210
+ BFS 	72	 No path found	1276	73	176
+ BFS 	69	 No path found	1077	70	160
+ BFS 	30	 No path found	498	31	66
+ BFS 	39	 No path found	664	40	82
+ BFS 	81	 No path found	1348	82	194
+ BFS 	46	 No path found	798	47	104
+ BFS 	40	 No path found	702	41	86
+ BFS 	69	 No path found	1284	70	178
+ BFS 	0	 Hit the wall	12	1	13
+ BFS 	58	 No path found	996	59	128
+ BFS 	0	 Hit the wall	12	1	13
+ BFS 	71	 No path found	1284	72	169
+ BFS 	0	 Hit the wall	12	1	13
+ BFS 	65	 No path found	1221	66	158
+ BFS 	92	 No path found	1655	93	235
+ BFS 	67	 No path found	1234	68	172
+ BFS 	36	 No path found	602	37	86
+ BFS 	55	 No path found	963	56	122
+ BFS 	53	 No path found	937	54	106
+ BFS 	77	 No path found	1350	78	188
+ BFS 	59	 No path found	918	60	144
+ BFS 	72	 No path found	1201	73	174
+ BFS 	94	 No path found	1787	95	242
+ BFS 	49	 No path found	854	50	124
+ BFS 	83	 No path found	1448	84	220
+ BFS 	50	 No path found	798	51	106
+ BFS 	62	 No path found	1232	63	152
+ BFS 	41	 No path found	762	42	98
+ BFS 	62	 No path found	1139	63	164
+ BFS 	81	 No path found	1427	82	196
+ BFS 	47	 No path found	832	48	110
+ BFS 	42	 No path found	763	43	94
+ BFS 	54	 No path found	936	55	122
+ BFS 	61	 No path found	1161	62	136
+ BFS 	63	 No path found	1245	64	168
+ BFS 	38	 No path found	651	39	82
+ BFS 	54	 No path found	901	55	108
+ BFS 	80	 No path found	1623	81	210
+ BFS 	68	 No path found	1304	69	168
+ BFS 	59	 No path found	1045	60	151
+ BFS 	41	 No path found	729	42	84
+ BFS 	84	 No path found	1558	85	194
+ BFS 	39	 No path found	776	40	84
+ BFS 	66	 No path found	1285	67	158
+ BFS 	62	 No path found	1101	63	142
+ BFS 	51	 No path found	940	52	120
+ BFS 	48	 No path found	829	49	110
+ BFS 	40	 No path found	644	41	92
+ BFS 	87	 No path found	1621	88	234
+ BFS 	68	 No path found	1332	69	167
+ BFS 	77	 No path found	1384	78	196
+ BFS 	87	 No path found	1788	88	228
+ BFS 	73	 No path found	1455	74	174
+ BFS 	69	 No path found	1266	70	172
+ BFS 	51	 No path found	893	52	108
+ BFS 	57	 No path found	1063	58	132
+ BFS 	47	 No path found	945	48	108
+ BFS 	67	 No path found	1133	68	146
+ BFS 	55	 No path found	871	56	144
+ BFS 	47	 No path found	734	48	114
+ BFS 	71	 No path found	1210	72	175
+ BFS 	61	 No path found	1116	62	140
+ BFS 	84	 No path found	1495	85	207
+ BFS 	44	 No path found	768	45	90
+ BFS 	81	 No path found	1479	82	198
+ BFS 	72	 No path found	1311	73	182
+ BFS 	69	 No path found	1288	70	176
+ BFS 	77	 No path found	1428	78	196
+ BFS 	79	 No path found	1491	80	198
+ BFS 	54	 No path found	1033	55	118
+ BFS 	62	 No path found	1155	63	154
+ BFS 	79	 No path found	1466	80	192
+ BFS 	57	 No path found	1097	58	138
+ BFS 	66	 No path found	1346	67	158
+ BFS 	36	 No path found	556	37	84
+ BFS 	66	 No path found	1168	67	172
+ BFS 	88	 No path found	1815	89	232
+ BFS 	66	 No path found	1386	67	168
+ BFS 	68	 No path found	1172	69	170
+ BFS 	54	 No path found	1104	55	140
+ BFS 	72	 No path found	1358	73	188
+ BFS 	45	 No path found	806	46	90
+ BFS 	42	 No path found	712	43	88
+ BFS 	71	 No path found	1307	72	174
+ BFS 	54	 No path found	1000	55	132
+ BFS 	0	 Hit the wall	12	1	13
+ BFS 	40	 No path found	754	41	86
+ BFS 	41	 No path found	617	42	96
+ BFS 	70	 No path found	1341	71	170
+ BFS 	60	 No path found	1043	61	142
+ BFS 	72	 No path found	1363	73	174
+ BFS 	40	 No path found	638	41	94
+ BFS 	57	 No path found	974	58	144
+ BFS 	41	 No path found	699	42	104
+ BFS 	52	 No path found	970	53	120
+ BFS 	78	 No path found	1322	79	186
+ BFS 	29	 No path found	415	30	58
+ BFS 	43	 No path found	815	44	96
+ BFS 	65	 No path found	1145	66	162
+ BFS 	87	 No path found	1625	88	220
+ BFS 	41	 No path found	776	42	98
+ BFS 	65	 No path found	1102	66	162
+ BFS 	51	 No path found	861	52	114
+ BFS 	81	 No path found	1541	82	189
+ BFS 	102	 No path found	2053	103	292
+ BFS 	48	 No path found	808	49	110
+ BFS 	54	 No path found	924	55	124
+ BFS 	52	 No path found	923	53	114
+ BFS 	70	 No path found	1348	71	178
+ BFS 	64	 No path found	1090	65	154
+ BFS 	79	 No path found	1325	80	206
+ BFS 	44	 No path found	711	45	106
+ BFS 	71	 No path found	1162	72	170
+ BFS 	83	 No path found	1506	84	208
+ BFS 	43	 No path found	747	44	100
+ BFS 	58	 No path found	1121	59	122
+ BFS 	59	 No path found	1096	60	154
+ BFS 	81	 No path found	1569	82	206
+ BFS 	71	 No path found	1262	72	176
+ BFS 	66	 No path found	1275	67	164
+ BFS 	56	 No path found	887	57	124
+ BFS 	50	 No path found	814	51	110
+ BFS 	88	 No path found	1553	89	222
+ BFS 	43	 No path found	702	44	96
+ BFS 	80	 No path found	1407	81	199
+ BFS 	65	 No path found	1245	66	164
+ BFS 	92	 No path found	1941	93	271
+ BFS 	92	 No path found	2003	93	246
+ BFS 	95	 No path found	1841	96	264
+ BFS 	74	 No path found	1497	75	178
+ BFS 	71	 No path found	1369	72	184
+ BFS 	40	 No path found	687	41	88
+ BFS 	25	 No path found	319	26	54
+ BFS 	48	 No path found	915	49	118
+ BFS 	52	 No path found	875	53	116
+ BFS 	78	 No path found	1497	79	206
+ BFS 	0	 Hit the wall	12	1	13
+ BFS 	70	 No path found	1196	71	168
+ BFS 	91	 No path found	1789	92	232
+ BFS 	73	 No path found	1387	74	174
+ BFS 	73	 No path found	1289	74	198
+ BFS 	43	 No path found	777	44	94
+ BFS 	73	 No path found	1299	74	170
+ BFS 	78	 No path found	1586	79	196
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	2	 Snake goes in circles	630	3	50
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	1
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
+ DFS 	0	 Snake goes in circles	1	1	0
