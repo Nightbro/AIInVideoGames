@@ -10,7 +10,7 @@ from tensorflow.keras.models import load_model
 
 
 def play_dq_agent():
-    model = load_model("dq_agent_model.keras")  # Load the saved model
+    model = load_model("dq_agent_model_ep100.keras")  # Load the saved model
     game = FlappyBirdGame()
 
     state = game.get_state()

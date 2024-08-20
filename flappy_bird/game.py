@@ -48,12 +48,24 @@ class FlappyBirdGame:
         self.game_over = False
 
     def get_state(self):
-        nearest_pipe = min(self.pipes, key=lambda p: p['x'] + self.pipe_width > self.bird_x)
-        # Simplified state representation: [bird's y-position, vertical distance to next pipe's gap]
+        nearest_pipe = None
+        for pipe in self.pipes:
+            if pipe["x"] + self.pipe_width > self.bird_x:
+                nearest_pipe = pipe
+                break
+
+        bird_velocity = self.bird_vel_y
+        horizontal_distance = nearest_pipe["x"] - self.bird_x
+        vertical_distance_to_top_pipe = self.bird_y - nearest_pipe["top"]
+        vertical_distance_to_bottom_pipe = nearest_pipe["bottom"] - self.bird_y
+
         state = (
-            self.bird_y / self.height,  # Normalize y-position
-            (nearest_pipe['top'] + nearest_pipe['bottom']) / 2 - self.bird_y  # Distance to gap center
+            bird_velocity,
+            horizontal_distance, 
+            vertical_distance_to_top_pipe,
+            vertical_distance_to_bottom_pipe
         )
+
         return state
 
     def step(self, action):
